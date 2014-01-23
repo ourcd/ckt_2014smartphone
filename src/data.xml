@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data folder="../assets/" bgsound="All.mp3">
+<!-- 
+		//media type
+		public static const MEDIA_IMAGE:int=1;
+		public static const MEDIA_SWF:int=2;
+		public static const MEDIA_VIDEO:int=3;
+		public static const MEDIA_GIF:int=4;
+		//ease
+		public static const EASE_NONE:int=0;
+		public static const EASE_BACK:int=1;
+		public static const EASE_BOUNCE:int=2;
+		public static const EASE_CUBIC:int=3;
+		public static const EASE_ELASTIC:int=4;
+		public static const EASE_EXPO:int=5;
+		public static const EASE_LINEAR:int=6;
+		public static const EASE_QUAD:int=7;
+		public static const EASE_QUART:int=8;
+		public static const EASE_QUINT:int=9;
+		public static const EASE_SINE:int=10;
+		public static const EASE_STRONG:int=11;
+ -->
+<!---->
+<item type="4" src="diego.gif" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="bg.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="htl.jpg" sound="" 
+fromScaleX="0.5" toScaleX="0.5" 
+fromScaleY="0.5"  toScaleY="0.5" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="1"/>
+
+<item type="1" src="bg.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="dianhua.jpg" sound="sound/dianhua.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="400" toX="400" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="1"/>
+
+<item type="1" src="bg.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="aoteman.jpg" sound="" 
+fromScaleX="1" toScaleX="2" 
+fromScaleY="2"  toScaleY="2" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="500" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="life2.jpg" sound="mario.mp3" 
+fromScaleX="3" toScaleX="3" 
+fromScaleY="3"  toScaleY="3" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="500" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="bg.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1"
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="dalijinggangzhang.jpg" sound="dalijinggangzhang.mp3" 
+fromScaleX="3" toScaleX="3" 
+fromScaleY="3"  toScaleY="3" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="yiyangzhi.png" sound="yiyangzhi.mp3" 
+fromScaleX="0" toScaleX="2" 
+fromScaleY="1"  toScaleY="1.25" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="liumaishengjian.png" sound="liumaishengjian.mp3" 
+fromScaleX="0" toScaleX="2" 
+fromScaleY="1"  toScaleY="1.25" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="qishangquan.jpg" sound="qishangquan.mp3" 
+fromScaleX="0" toScaleX="3.5" 
+fromScaleY="1"  toScaleY="1.5" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="dugujiujian.png" sound="dugujiujian.mp3" 
+fromScaleX="0" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="xianglongshibazhuang.png" sound="xianglongshibazhuang.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="shaoling72jueji.jpg" sound="shaoling72jueji.mp3" 
+fromScaleX="0" toScaleX="2" 
+fromScaleY="1"  toScaleY="1.6" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="wanjianguizong.jpg" sound="wanjianguizong.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="life1.jpg" sound="mario.mp3" 
+fromScaleX="3" toScaleX="3" 
+fromScaleY="3"  toScaleY="3" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="bg.jpg" sound="duizi.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="bg.jpg" sound="liangzhixiaomifeng.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="life0.jpg" sound="mario.mp3" 
+fromScaleX="3" toScaleX="3" 
+fromScaleY="3"  toScaleY="3" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="bg.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0" />
+
+<item type="1" src="ma.jpg" sound="" 
+fromScaleX="0" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="ma.jpg" sound="sound/round1_go.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1.25"  toScaleY="1.25" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="ma.jpg" sound="sound/round2_go.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1.25"  toScaleY="1.25" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="shanguosha.jpg" sound="doudizhu.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1000" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="sha.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="500" fromY="-100" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+<item type="1" src="shan.jpg" sound="shan.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="sha.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="500" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+<item type="1" src="shan.jpg" sound="shan.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+
+<item type="1" src="sha.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="500" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+<item type="1" src="shan.jpg" sound="shan.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+
+<item type="1" src="sha.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="500" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+<item type="1" src="shan.jpg" sound="shan.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="shashasha.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="bing_tie_wan.jpg" sound="sha.mp3"
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="shunshouqianyang.jpg" sound="sha.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+<item type="1" src="wuxiekeji.jpg" sound="shan.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="nanmanruqing.jpg" sound="sha.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="400" toX="400" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="tuotaihuangu.jpg" sound="tuotaihuangu.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+
+<item type="1" src="guiboqigong.jpg" sound="guiboqigong.mp3" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="1000" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+<item type="3" src="heikediguo.flv" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="0" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="1" delay="1" ease="0"/>
+
+<item type="1" src="runlaishengzhang.jpg" sound="" 
+fromScaleX="1" toScaleX="1" 
+fromScaleY="1"  toScaleY="1" 
+fromX="-500" toX="0" fromY="0" toY="0" 
+fromAlpha="1" toAlpha="1" 
+duration="250" delay="1" 
+time="5000" ease="0"/>
+
+</data>
